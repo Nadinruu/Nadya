@@ -1,0 +1,15 @@
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_019\bin\Debug\net6.0\zadacha_019.exe
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_019\bin\Debug\net6.0\zadacha_019.deps.json
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_019\bin\Debug\net6.0\zadacha_019.runtimeconfig.json
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_019\bin\Debug\net6.0\zadacha_019.dll
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_019\bin\Debug\net6.0\zadacha_019.pdb
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_019\obj\Debug\net6.0\zadacha_019.csproj.AssemblyReference.cache
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_019\obj\Debug\net6.0\zadacha_019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_019\obj\Debug\net6.0\zadacha_019.AssemblyInfoInputs.cache
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_019\obj\Debug\net6.0\zadacha_019.AssemblyInfo.cs
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_019\obj\Debug\net6.0\zadacha_019.csproj.CoreCompileInputs.cache
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_019\obj\Debug\net6.0\zadacha_019.dll
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_019\obj\Debug\net6.0\refint\zadacha_019.dll
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_019\obj\Debug\net6.0\zadacha_019.pdb
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_019\obj\Debug\net6.0\zadacha_019.genruntimeconfig.cache
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_019\obj\Debug\net6.0\ref\zadacha_019.dll
