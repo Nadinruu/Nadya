@@ -1,16 +1,14 @@
-﻿int inpnumber =12321;
+﻿int inpnumber =12221;
        int number =inpnumber;
        int sum=0;
-       int i=0;
-       while(number>i){
+       while(number>0){
            int num2=number%10;
-           sum=num2*10+sum;
-           i++;
+           sum=sum*10+num2;
+           number/=10;
        }
-        sum/=10;
-        if (inpnumber!=sum){
-            Console.WriteLine ($"{inpnumber}->Нет");
-        }
-        else {
+            if (inpnumber!=sum){
+            Console.WriteLine ($"{sum}->Нет");
+            }
+            else {
             Console.WriteLine ($"{inpnumber}->Да");
-        }
+            }
