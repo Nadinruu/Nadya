@@ -1,0 +1,15 @@
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_043_a\bin\Debug\net6.0\zadacha_043_a.exe
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_043_a\bin\Debug\net6.0\zadacha_043_a.deps.json
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_043_a\bin\Debug\net6.0\zadacha_043_a.runtimeconfig.json
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_043_a\bin\Debug\net6.0\zadacha_043_a.dll
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_043_a\bin\Debug\net6.0\zadacha_043_a.pdb
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_043_a\obj\Debug\net6.0\zadacha_043_a.csproj.AssemblyReference.cache
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_043_a\obj\Debug\net6.0\zadacha_043_a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_043_a\obj\Debug\net6.0\zadacha_043_a.AssemblyInfoInputs.cache
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_043_a\obj\Debug\net6.0\zadacha_043_a.AssemblyInfo.cs
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_043_a\obj\Debug\net6.0\zadacha_043_a.csproj.CoreCompileInputs.cache
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_043_a\obj\Debug\net6.0\zadacha_043_a.dll
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_043_a\obj\Debug\net6.0\refint\zadacha_043_a.dll
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_043_a\obj\Debug\net6.0\zadacha_043_a.pdb
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_043_a\obj\Debug\net6.0\zadacha_043_a.genruntimeconfig.cache
+C:\Users\Наденька\Desktop\homeworkn\zadachi\zadacha_043_a\obj\Debug\net6.0\ref\zadacha_043_a.dll
